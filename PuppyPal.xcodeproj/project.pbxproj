@@ -505,6 +505,7 @@
 				1A4135181E3024B9004F403E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A4135191E3024B9004F403E /* Build configuration list for PBXNativeTarget "PuppyPalTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				1A41351B1E3024B9004F403E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A41351C1E3024B9004F403E /* Build configuration list for PBXNativeTarget "PuppyPalUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				1A41351E1E3024B9004F403E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
